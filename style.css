@@ -1,0 +1,438 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.parentDiv {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 600px;
+}
+
+#cloud {
+  transform-box: fill-box;
+  transform-origin: center;
+  transform: translateX(20px);
+  animation: cloud 3s ease-in-out infinite alternate forwards;
+}
+
+@keyframes cloud {
+  0% {
+    transform: translateX(20px);
+  }
+
+  100% {
+    transform: translateX(-20px);
+  }
+}
+
+#lemon {
+  transform-box: fill-box;
+  transform-origin: 402px 256px;
+  animation: lemon 2.5s ease-in-out infinite alternate forwards;
+}
+
+@keyframes lemon {
+  0% {
+    transform: rotate(-2deg);
+  }
+
+  100% {
+    transform: rotate(2deg);
+  }
+}
+
+#right-palm-right {
+  transform-box: fill-box;
+  transform-origin: 179px bottom;
+  animation: right-palm-right 3.5s ease-in-out infinite alternate forwards;
+}
+
+@keyframes right-palm-right {
+  0% {
+    transform: rotate(1deg);
+  }
+
+  100% {
+    transform: rotate(-1deg);
+  }
+}
+
+#right-palm-left {
+  transform-box: fill-box;
+  transform-origin: 279px bottom;
+  animation: right-palm-left 3s ease-in-out infinite alternate forwards;
+}
+
+@keyframes right-palm-left {
+  0% {
+    transform: rotate(-1deg);
+  }
+
+  100% {
+    transform: rotate(1deg);
+  }
+}
+
+#left-palm-right {
+  transform-box: fill-box;
+  transform-origin: 67.5px bottom;
+  animation: right-palm-right 3.7s ease-in-out infinite alternate forwards;
+}
+
+#left-palm-left {
+  transform-box: fill-box;
+  transform-origin: 44px bottom;
+  animation: right-palm-left 2.9s ease-in-out infinite alternate forwards;
+}
+
+#sloth-right-arm {
+  transform-box: fill-box;
+  transform-origin: 46px 64px;
+  animation: sloth__right__arm 4s ease-in-out alternate forwards;
+}
+
+@keyframes sloth__right__arm {
+  0%,
+  45% {
+    transform: rotateZ(0deg);
+  }
+
+  50%,
+  60% {
+    transform: rotateZ(-2deg);
+  }
+
+  65%,
+  100% {
+    transform: rotateZ(0deg);
+  }
+}
+
+#Sloth-arm-left {
+  transform-box: fill-box;
+  transform-origin: 238px 90px;
+  animation: sloth__left__arm 4s ease-in-out alternate forwards;
+}
+
+@keyframes sloth__left__arm {
+  0%,
+  45% {
+    transform: rotateZ(0deg);
+  }
+
+  50%,
+  60% {
+    transform: rotateZ(2deg);
+  }
+
+  65%,
+  100% {
+    transform: rotateZ(0deg);
+  }
+}
+
+#sloth-head {
+  opacity: 1;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: winkOpen 4s ease 1 forwards;
+}
+
+@keyframes winkOpen {
+  0% {
+    opacity: 1;
+    transform: rotate(0deg);
+  }
+
+  49.5% {
+    opacity: 1;
+  }
+
+  50%,
+  60% {
+    opacity: 0;
+    transform: rotate(-12.5deg);
+  }
+
+  60.5% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+    transform: rotate(0deg);
+  }
+}
+
+#sloth-blinking {
+  opacity: 0;
+  animation: wink 4s ease 1 forwards;
+}
+
+@keyframes wink {
+  0%,
+  49.5% {
+    opacity: 0;
+  }
+
+  50%,
+  60% {
+    opacity: 1;
+  }
+
+  60.5%,
+  100% {
+    opacity: 0;
+  }
+}
+
+#box-warp {
+  animation: box__warp 4s linear 1 forwards;
+}
+
+@keyframes box__warp {
+  0%,
+  48% {
+    opacity: 0;
+  }
+
+  50%,
+  60% {
+    opacity: 1;
+  }
+
+  62%,
+  100% {
+    opacity: 0;
+  }
+}
+
+#box-bottom-warped {
+  opacity: 0;
+  animation: bottom__box__warped 4s linear 1 forwards;
+}
+
+@keyframes bottom__box__warped {
+  0%,
+  60% {
+    opacity: 0;
+  }
+
+  62%,
+  100% {
+    opacity: 1;
+  }
+}
+
+#box-top {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: box__top 4s linear 1 forwards;
+}
+
+@keyframes box__top {
+  0% {
+    opacity: 1;
+    transform: translate(0px, 0px) rotate(0deg);
+  }
+
+  48% {
+    opacity: 1;
+  }
+
+  50%,
+  60% {
+    opacity: 0;
+    transform: translate(0px, 0px) rotate(0deg);
+  }
+
+  62% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate(-235px, -86px) rotate(-60deg);
+  }
+}
+
+#box-bottom {
+  opacity: 0;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: box__bottom 4s linear 1 forwards;
+}
+
+@keyframes box__bottom {
+  0%,
+  60% {
+    opacity: 1;
+  }
+
+  62%,
+  100% {
+    opacity: 0;
+  }
+}
+
+#coin-track-1,
+#coin-track-2,
+#coin-track-3,
+#coin-track-4,
+#coin-track-5,
+#coin-track-6,
+#coin-track-7,
+#coin-track-8 {
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+#coin-track-1 {
+  animation: coin__track__1 4s linear forwards;
+}
+
+@keyframes coin__track__1 {
+  0%,
+  62% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(110deg);
+  }
+}
+
+#coin-track-2 {
+  animation: coin__track__2 4s linear forwards;
+}
+
+@keyframes coin__track__2 {
+  0%,
+  62% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(-80deg);
+  }
+}
+
+#coin-track-3 {
+  animation: coin__track__3 4s linear forwards;
+}
+
+@keyframes coin__track__3 {
+  0%,
+  62% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(-90deg);
+  }
+}
+
+#coin-track-4 {
+  animation: coin__track__4 4s linear forwards;
+}
+
+@keyframes coin__track__4 {
+  0%,
+  62% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(90deg);
+  }
+}
+
+#coin-track-5 {
+  animation: coin__track__5 4s linear forwards;
+}
+
+@keyframes coin__track__5 {
+  0%,
+  62% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(120deg);
+  }
+}
+
+#coin-track-6 {
+  animation: coin__track__6 4s linear forwards;
+}
+
+@keyframes coin__track__6 {
+  0%,
+  62% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(210deg);
+  }
+}
+
+#coin-track-7 {
+  animation: coin__track__7 4s linear forwards;
+}
+
+@keyframes coin__track__7 {
+  0%,
+  62% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(-180deg);
+  }
+}
+
+#coin-track-8 {
+  animation: coin__track__8 4s linear forwards;
+}
+
+@keyframes coin__track__8 {
+  0%,
+  62% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(-145deg);
+  }
+}
+
+#coin-larger {
+  transform-box: fill-box;
+  transform-origin: center;
+  opacity: 0;
+  transform: translate(-124px, -21px) rotate(110deg) scale(1);
+  animation: coin__larger 4s linear 4s forwards;
+}
+
+@keyframes coin__larger {
+  0% {
+    opacity: 0;
+    transform: translate(-124px, -21px) rotate(110deg) scale(1);
+  }
+
+  60% {
+    opacity: 1;
+    transform: translate(-124px, -21px) rotate(110deg) scale(1);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translate(-490px, 180px) rotate(0deg) scale(9);
+  }
+}

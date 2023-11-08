@@ -1,0 +1,586 @@
+<svg width="100%" min-height="0" viewBox="0 0 1160 1030" fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="sloth-animation" clip-path="url(#clip0_12_5)">
+        <rect width="1160" height="1030" fill="#42D5BF" />
+        <g id="palm-right">
+            <rect id="left-palm-left" x="761.115" y="316.965" width="153" height="156" fill="url(#pattern0)" />
+            <rect id="left-palm-right" x="728.174" y="330.818" width="135" height="154" fill="url(#pattern1)" />
+        </g>
+        <rect id="cloud" x="640.681" y="133.041" width="320.5" height="162.005" fill="url(#pattern2)" />
+        <g id="palm-left">
+            <rect id="right-palm-left" x="139.876" y="318.541" width="298.36" height="308.849" fill="url(#pattern3)" />
+            <rect id="right-palm-right" x="265.056" y="274.89" width="255.237" height="324" fill="url(#pattern4)" />
+        </g>
+        <rect id="lemon" x="255" y="279" width="734" height="648" fill="url(#pattern5)" />
+        <rect id="Sloth-only-body" x="422.968" y="367.402" width="346.867" height="155.492" fill="url(#pattern6)" />
+        <g id="coins">
+            <g id="coin-track-1">
+                <rect id="coin-1" x="564.227" y="484.819" width="107.957" height="107.181" fill="url(#pattern7)" />
+                <circle id="c-1" cx="900.103" cy="548.922" r="281.897" stroke="transparent" />
+            </g>
+            <g id="coin-track-2">
+                <rect id="coin-2" x="571.4" y="529.001" width="43.1958" height="41.7485" fill="url(#pattern8)" />
+                <circle id="c-2" cx="368.865" cy="716.897" r="281.897" stroke="transparent" />
+            </g>
+            <g id="coin-track-3">
+                <rect id="coin-3" x="564.436" y="523.277" width="37.3073" height="35.1974" fill="url(#pattern9)" />
+                <circle id="c-3" cx="301.193" cy="538.3" r="281.897" stroke="transparent" />
+            </g>
+            <g id="coin-track-4">
+                <rect id="coin-4" x="604.09" y="503.425" width="63.0124" height="60.9011" fill="url(#pattern10)" />
+                <circle id="c-4" cx="878.299" cy="386.618" r="281.897" stroke="transparent" />
+            </g>
+            <g id="coin-track-5">
+                <rect id="coin-5" x="622" y="472.965" width="72.3331" height="68.2423" fill="url(#pattern11)" />
+                <circle id="c-5" cx="877.859" cy="415.249" r="232.141" stroke="transparent" />
+            </g>
+            <g id="coin-track-6">
+                <rect id="coin-6" x="580" y="515" width="49.9144" height="47.0914" fill="url(#pattern12)" />
+                <circle id="c-6" cx="793.126" cy="465.028" r="203.488" stroke="transparent" />
+            </g>
+            <g id="coin-track-7">
+                <rect id="coin-7" x="548.99" y="497.673" width="89.0441" height="88.4047" fill="url(#pattern13)" />
+                <circle id="c-7" cx="388.756" cy="564.806" r="204.756" stroke="transparent" />
+            </g>
+            <g id="coin-track-8">
+                <rect id="coin-8" x="508.884" y="507.746" width="70.2317" height="66.2598" fill="url(#pattern14)" />
+                <circle id="c-8" cx="317.103" cy="531.921" r="226.897" stroke="transparent" />
+            </g>
+        </g>
+        <g id="box">
+            <rect id="box-bottom-warped" x="485" y="426.484" width="282" height="242.031" fill="url(#pattern15)" />
+            <rect id="box-bottom" x="497" y="435" width="254" height="218" fill="url(#pattern16)" />
+            <rect id="box-top" x="490.639" y="388" width="198" height="144" fill="url(#pattern17)" />
+            <rect id="box-warp" x="501" y="405.191" width="236" height="239.617" fill="url(#pattern18)" />
+        </g>
+        <rect id="sloth-right-arm" x="392.675" y="467.11" width="277.133" height="142.38" fill="url(#pattern19)" />
+        <rect id="Sloth-arm-left" x="535.615" y="359.466" width="301" height="235" fill="url(#pattern20)" />
+        <rect id="sloth-head" x="462.968" y="196.821" width="303.256" height="236.86" fill="url(#pattern21)" />
+        <rect id="sloth-blinking" x="466.575" y="187.944" width="303.26" height="244.736" fill="url(#pattern22)" />
+        <rect id="coin-larger" x="1039" y="280.587" width="107.957" height="107.181" transform="rotate(110 1039 280.587)" fill="url(#pattern23)" />
+    </g>
+    <defs>
+        <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image0_12_5" transform="scale(0.00653595 0.00641026)" />
+        </pattern>
+        <pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1_12_5" transform="scale(0.00740741 0.00649351)" />
+        </pattern>
+        <pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image2_12_5" transform="scale(0.00182482 0.00361011)" />
+        </pattern>
+        <pattern id="pattern3" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image3_12_5" transform="scale(0.00390625 0.00377359)" />
+        </pattern>
+        <pattern id="pattern4" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image4_12_5" transform="scale(0.00456621 0.00359712)" />
+        </pattern>
+        <pattern id="pattern5" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image5_12_5" transform="scale(0.0013624 0.00154321)" />
+        </pattern>
+        <pattern id="pattern6" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image6_12_5" transform="scale(0.00132626 0.00295858)" />
+        </pattern>
+        <pattern id="pattern7" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image7_12_5" transform="scale(0.00179533 0.00180832)" />
+        </pattern>
+        <pattern id="pattern8" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image8_12_5" transform="scale(0.00257732 0.00266667)" />
+        </pattern>
+        <pattern id="pattern9" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image9_12_5" transform="scale(0.00257069 0.0027248)" />
+        </pattern>
+        <pattern id="pattern10" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image8_12_5" transform="scale(0.00257732 0.00266667)" />
+        </pattern>
+        <pattern id="pattern11" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image9_12_5" transform="scale(0.00257069 0.0027248)" />
+        </pattern>
+        <pattern id="pattern12" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image9_12_5" transform="scale(0.00257069 0.0027248)" />
+        </pattern>
+        <pattern id="pattern13" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image7_12_5" transform="scale(0.00179533 0.00180832)" />
+        </pattern>
+        <pattern id="pattern14" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image9_12_5" transform="scale(0.00257069 0.0027248)" />
+        </pattern>
+        <pattern id="pattern15" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image10_12_5" transform="scale(0.00393701 0.00458716)" />
+        </pattern>
+        <pattern id="pattern16" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image11_12_5" transform="scale(0.00393701 0.00458716)" />
+        </pattern>
+        <pattern id="pattern17" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image12_12_5" transform="scale(0.00505051 0.00694444)" />
+        </pattern>
+        <pattern id="pattern18" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image13_12_5" transform="scale(0.00383142 0.00377359)" />
+        </pattern>
+        <pattern id="pattern19" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image14_12_5" transform="scale(0.00183486 0.00357143)" />
+        </pattern>
+        <pattern id="pattern20" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image15_12_5" transform="scale(0.00332226 0.00425532)" />
+        </pattern>
+        <pattern id="pattern21" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image16_12_5" transform="scale(0.0015528 0.00198807)" />
+        </pattern>
+        <pattern id="pattern22" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image17_12_5" transform="scale(0.00350877 0.00434783)" />
+        </pattern>
+        <pattern id="pattern23" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image7_12_5" transform="scale(0.00179533 0.00180832)" />
+        </pattern>
+        <clipPath id="clip0_12_5">
+            <rect width="1160" height="1030" fill="white" />
+        </clipPath>
+        <image id="image0_12_5" data-name="left-palm-left.png" width="153" height="156" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/left-palm-left.png" />
+        <image id="image1_12_5" data-name="left-palm-right.png" width="135" height="154" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/left-palm-right.png" />
+        <image id="image2_12_5" data-name="cloud-2.png" width="548" height="277" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/cloud.png" />
+        <image id="image3_12_5" data-name="palm-left.png" width="256" height="265" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/right-palm-left.png" />
+        <image id="image4_12_5" data-name="palm-right.png" width="219" height="278" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/right-palm-right.png" />
+        <image id="image5_12_5" data-name="lemon.png" width="734" height="648" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/lemon.png" />
+        <image id="image6_12_5" data-name="Sloth_only_body.png" width="754" height="338" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/Sloth-only-body.png" />
+        <image id="image7_12_5" data-name="coin-1.png" width="557" height="553" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/coin-1.png" />
+        <image id="image8_12_5" data-name="coin-2.png" width="388" height="375" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/coin-2.png" />
+        <image id="image9_12_5" data-name="coin-3.png" width="389" height="367" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/coin-3.png" />
+        <image id="image10_12_5" data-name="box-bottom-warped.png" width="254" height="218" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/box-bottom-warped.png" />
+        <image id="image11_12_5" data-name="box-bottom.png" width="254" height="218" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/box-bottom.png" />
+        <image id="image12_12_5" data-name="box-top.png" width="198" height="144" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/box-top.png" />
+        <image id="image13_12_5" data-name="box-warp.png" width="261" height="265" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/box-warp.png" />
+        <image id="image14_12_5" data-name="sloth-right-arm-edited.png" width="545" height="280" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/sloth-right-arm.png" />
+        <image id="image15_12_5" data-name="Sloth-arm-left.png" width="301" height="235" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/Sloth-arm-left.png" />
+        <image id="image16_12_5" data-name="sloth-head.png" width="644" height="503" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/sloth-head.png" />
+        <image id="image17_12_5" data-name="Sloth_wholebody_blinking 1.png" width="285" height="230" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/11/sloth-blinking.png" />
+
+        <style>
+              #cloud {
+                transform-box: fill-box;
+                transform-origin: center;
+                transform: translateX(20px);
+                animation: cloud 3s ease-in-out infinite alternate forwards;
+              }
+
+              @keyframes cloud {
+                0% {
+                  transform: translateX(20px);
+                }
+
+                100% {
+                  transform: translateX(-20px);
+                }
+              }
+
+              #lemon {
+                transform-box: fill-box;
+                transform-origin: 402px 256px;
+                animation: lemon 2.5s ease-in-out infinite alternate forwards;
+              }
+
+              @keyframes lemon {
+                0% {
+                  transform: rotate(-2deg);
+                }
+
+                100% {
+                  transform: rotate(2deg);
+                }
+              }
+
+              #right-palm-right {
+                transform-box: fill-box;
+                transform-origin: 179px bottom;
+                animation: right-palm-right 3.5s ease-in-out infinite alternate
+                  forwards;
+              }
+
+              @keyframes right-palm-right {
+                0% {
+                  transform: rotate(1deg);
+                }
+
+                100% {
+                  transform: rotate(-1deg);
+                }
+              }
+
+              #right-palm-left {
+                transform-box: fill-box;
+                transform-origin: 279px bottom;
+                animation: right-palm-left 3s ease-in-out infinite alternate
+                  forwards;
+              }
+
+              @keyframes right-palm-left {
+                0% {
+                  transform: rotate(-1deg);
+                }
+
+                100% {
+                  transform: rotate(1deg);
+                }
+              }
+
+              #left-palm-right {
+                transform-box: fill-box;
+                transform-origin: 67.5px bottom;
+                animation: right-palm-right 3.7s ease-in-out infinite alternate
+                  forwards;
+              }
+
+              #left-palm-left {
+                transform-box: fill-box;
+                transform-origin: 44px bottom;
+                animation: right-palm-left 2.9s ease-in-out infinite alternate
+                  forwards;
+              }
+
+              #sloth-right-arm {
+                transform-box: fill-box;
+                transform-origin: 46px 64px;
+                animation: sloth__right__arm 4s ease-in-out alternate forwards;
+              }
+
+              @keyframes sloth__right__arm {
+                0%,
+                45% {
+                  transform: rotateZ(0deg);
+                }
+
+                50%,
+                60% {
+                  transform: rotateZ(-2deg);
+                }
+
+                65%,
+                100% {
+                  transform: rotateZ(0deg);
+                }
+              }
+
+              #Sloth-arm-left {
+                transform-box: fill-box;
+                transform-origin: 238px 90px;
+                animation: sloth__left__arm 4s ease-in-out alternate forwards;
+              }
+
+              @keyframes sloth__left__arm {
+                0%,
+                45% {
+                  transform: rotateZ(0deg);
+                }
+
+                50%,
+                60% {
+                  transform: rotateZ(2deg);
+                }
+
+                65%,
+                100% {
+                  transform: rotateZ(0deg);
+                }
+              }
+
+              #sloth-head {
+                opacity: 1;
+                transform-box: fill-box;
+                transform-origin: center;
+                animation: winkOpen 4s ease 1 forwards;
+              }
+
+              @keyframes winkOpen {
+                0% {
+                  opacity: 1;
+                  transform: rotate(0deg);
+                }
+
+                49.5% {
+                  opacity: 1;
+                }
+
+                50%,
+                60% {
+                  opacity: 0;
+                  transform: rotate(-12.5deg);
+                }
+
+                60.5% {
+                  opacity: 1;
+                }
+
+                100% {
+                  opacity: 1;
+                  transform: rotate(0deg);
+                }
+              }
+
+              #sloth-blinking {
+                opacity: 0;
+                animation: wink 4s ease 1 forwards;
+              }
+
+              @keyframes wink {
+                0%,
+                49.5% {
+                  opacity: 0;
+                }
+
+                50%,
+                60% {
+                  opacity: 1;
+                }
+
+                60.5%,
+                100% {
+                  opacity: 0;
+                }
+              }
+
+              #box-warp {
+                animation: box__warp 4s linear 1 forwards;
+              }
+
+              @keyframes box__warp {
+                0%,
+                48% {
+                  opacity: 0;
+                }
+
+                50%,
+                60% {
+                  opacity: 1;
+                }
+
+                62%,
+                100% {
+                  opacity: 0;
+                }
+              }
+
+              #box-bottom-warped {
+                opacity: 0;
+                animation: bottom__box__warped 4s linear 1 forwards;
+              }
+
+              @keyframes bottom__box__warped {
+                0%,
+                60% {
+                  opacity: 0;
+                }
+
+                62%,
+                100% {
+                  opacity: 1;
+                }
+              }
+
+              #box-top {
+                transform-box: fill-box;
+                transform-origin: center;
+                animation: box__top 4s linear 1 forwards;
+              }
+
+              @keyframes box__top {
+                0% {
+                  opacity: 1;
+                  transform: translate(0px, 0px) rotate(0deg);
+                }
+
+                48% {
+                  opacity: 1;
+                }
+
+                50%,
+                60% {
+                  opacity: 0;
+                  transform: translate(0px, 0px) rotate(0deg);
+                }
+
+                62% {
+                  opacity: 1;
+                }
+                100% {
+                  transform: translate(-235px, -86px) rotate(-60deg);
+                }
+              }
+
+              #box-bottom {
+                opacity: 0;
+                transform-box: fill-box;
+                transform-origin: center;
+                animation: box__bottom 4s linear 1 forwards;
+              }
+
+              @keyframes box__bottom {
+                0%,
+                60% {
+                  opacity: 1;
+                }
+
+                62%,
+                100% {
+                  opacity: 0;
+                }
+              }
+
+              #coin-track-1,
+              #coin-track-2,
+              #coin-track-3,
+              #coin-track-4,
+              #coin-track-5,
+              #coin-track-6,
+              #coin-track-7,
+              #coin-track-8 {
+                transform-box: fill-box;
+                transform-origin: center;
+              }
+
+              #coin-track-1 {
+                animation: coin__track__1 4s linear forwards;
+              }
+
+              @keyframes coin__track__1 {
+                0%,
+                62% {
+                  transform: rotate(0deg);
+                }
+
+                100% {
+                  transform: rotate(110deg);
+                }
+              }
+
+              #coin-track-2 {
+                animation: coin__track__2 4s linear forwards;
+              }
+
+              @keyframes coin__track__2 {
+                0%,
+                62% {
+                  transform: rotate(0deg);
+                }
+
+                100% {
+                  transform: rotate(-80deg);
+                }
+              }
+
+              #coin-track-3 {
+                animation: coin__track__3 4s linear forwards;
+              }
+
+              @keyframes coin__track__3 {
+                0%,
+                62% {
+                  transform: rotate(0deg);
+                }
+
+                100% {
+                  transform: rotate(-90deg);
+                }
+              }
+
+              #coin-track-4 {
+                animation: coin__track__4 4s linear forwards;
+              }
+
+              @keyframes coin__track__4 {
+                0%,
+                62% {
+                  transform: rotate(0deg);
+                }
+
+                100% {
+                  transform: rotate(90deg);
+                }
+              }
+
+              #coin-track-5 {
+                animation: coin__track__5 4s linear forwards;
+              }
+
+              @keyframes coin__track__5 {
+                0%,
+                62% {
+                  transform: rotate(0deg);
+                }
+
+                100% {
+                  transform: rotate(120deg);
+                }
+              }
+
+              #coin-track-6 {
+                animation: coin__track__6 4s linear forwards;
+              }
+
+              @keyframes coin__track__6 {
+                0%,
+                62% {
+                  transform: rotate(0deg);
+                }
+
+                100% {
+                  transform: rotate(210deg);
+                }
+              }
+
+              #coin-track-7 {
+                animation: coin__track__7 4s linear forwards;
+              }
+
+              @keyframes coin__track__7 {
+                0%,
+                62% {
+                  transform: rotate(0deg);
+                }
+
+                100% {
+                  transform: rotate(-180deg);
+                }
+              }
+
+              #coin-track-8 {
+                animation: coin__track__8 4s linear forwards;
+              }
+
+              @keyframes coin__track__8 {
+                0%,
+                62% {
+                  transform: rotate(0deg);
+                }
+
+                100% {
+                  transform: rotate(-145deg);
+                }
+              }
+
+              #coin-larger {
+                transform-box: fill-box;
+                transform-origin: center;
+                opacity: 0;
+                transform: translate(-124px, -21px) rotate(110deg) scale(1);
+                animation: coin__larger 4s linear 4s forwards;
+              }
+
+              @keyframes coin__larger {
+                0% {
+                  opacity: 0;
+                  transform: translate(-124px, -21px) rotate(110deg) scale(1);
+                }
+
+                60% {
+                  opacity: 1;
+                  transform: translate(-124px, -21px) rotate(110deg) scale(1);
+                }
+
+                100% {
+                  opacity: 1;
+                  transform: translate(-490px, 180px) rotate(0deg) scale(9);
+                }
+              }
+        </style>
+    </defs>
+</svg>
